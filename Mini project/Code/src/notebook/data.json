@@ -1,0 +1,35 @@
+[ 
+	{ 
+		"id": 1001, 
+		"imageUrl": "gfg.png", 
+		"firstName": "Thomas", 
+		"lastName": "Leannon", 
+		"email": "Thomas.Leannon@gfg.com", 
+		"contactNumber": "4121091095", 
+		"dob": "1979-08-26", 
+		"salary": 1, 
+		"address": "Address1"
+	}, 
+	{ 
+		"id": 1002, 
+		"imageUrl": "gfg.png", 
+		"firstName": "Faye", 
+		"lastName": "Sauer", 
+		"email": "Faye.Sauergfg.com", 
+		"contactNumber": "4914696673", 
+		"dob": "1962-06-28", 
+		"salary": 2, 
+		"address": "Address2"
+	}, 
+	{ 
+		"id": 1003, 
+		"imageUrl": "gfg.png", 
+		"firstName": "Deven", 
+		"lastName": "Halvorson", 
+		"email": "Deven.Halvorsongfg.com", 
+		"contactNumber": "4479795571", 
+		"dob": "1993-01-06", 
+		"salary": 3, 
+		"address": "Address3"
+	}
+]
